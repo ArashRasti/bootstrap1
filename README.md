@@ -3,4 +3,4 @@
 ## Bootstrap learning
 
 + https://github.com/johnpapa/lite-server
-  * **_`npm install lite-server --save-dev`_**
+  * **_`npm install lite-server --save-dev`_**  
